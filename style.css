@@ -40,8 +40,8 @@
 }
 
 .present {
- margin: 15% 0 0 7%;
- gap: 2rem;
+  margin: 15% 0 0 7%;
+  gap: 2rem;
 }
 
 .present > h1 {
@@ -125,7 +125,7 @@
   margin-top: 3%;
 }
 
-.langs{
+.langs {
   width: 110px;
   height: 30px;
 }
@@ -163,7 +163,6 @@
 .img2 {
   background-image: url('./desktopsvg/image-12.svg');
   background-size: cover;
-  
 }
 
 .img3 {
@@ -185,13 +184,13 @@
 }
 
 .green {
- background: green;
+  background: green;
 }
 
 .tech {
   width: 338px;
   height: 338px;
-  background: #1C528A;
+  background: #1c528a;
   margin-left: 3;
 }
 
@@ -205,7 +204,6 @@
   width: 338px;
   height: 338px;
   background: #febf52;
-  
 }
 
 .tech3 {
@@ -264,9 +262,11 @@
 .form-control {
   width: 100%;
 }
+
 .contact input[type="email"] {
   width: 100%;
 }
+
 .contact textarea[type="textarea"] {
   width: 50%;
 }
